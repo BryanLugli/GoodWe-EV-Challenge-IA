@@ -62,10 +62,10 @@ Essas tecnologias permitem criar um chatbot inteligente, escalável e fácil de 
 
 ## 🧪 Testes
 
-Ver arquivo: `/docs/testes.md`
+[Ver testes](docs/testes.md)
 
 ---
 
 ## ⚙️ System Prompt
 
-Ver arquivo: `/docs/system_prompt.txt`
+[Ver system prompt](docs/system_prompt.txt)

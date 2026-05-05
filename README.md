@@ -64,6 +64,11 @@ Essas tecnologias permitem criar um chatbot inteligente, escalável e fácil de 
 
 [Ver testes](docs/testes.md)
 
+
+## Fluxograma do Chatbot
+
+![Fluxograma](documentos/fluxograma.png)
+
 ---
 
 ## ⚙️ System Prompt

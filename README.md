@@ -65,7 +65,7 @@ A integração com dados do sistema (como consumo, regras e status dos carregado
 
 ## 🔄 Fluxograma do Funcionamento
 
-[Ver Fluxograma](documentos/Fluxograma-IA.drawio.pdf)
+[Ver Fluxograma](docs/Fluxograma-IA.drawio.pdf)
 
 
 ---

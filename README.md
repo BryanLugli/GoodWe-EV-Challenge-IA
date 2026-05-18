@@ -1,6 +1,6 @@
-# 🚗 Chatbot Inteligente para Gestão de Eletropostos (GoodWe - EV Challenge 2026)
+#  Chatbot Inteligente para Gestão de Eletropostos (GoodWe - EV Challenge 2026)
 
-## 👥 Integrantes
+##  Integrantes
 
 * Bryan Lugli - RM (571350)
 * Beckman - RM (573442)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Problema
+##  Problema
 
 No contexto do **EV Challenge 2026**, a GoodWe propõe soluções para melhorar a gestão de eletropostos. Atualmente, há uma ausência de sistemas integrados capazes de:
 
@@ -21,7 +21,7 @@ Isso dificulta o controle, gera conflitos entre usuários e limita a eficiência
 
 ---
 
-## 💡 Proposta do Projeto
+##  Proposta do Projeto
 
 Este projeto propõe o desenvolvimento de um **chatbot inteligente com IA**, capaz de atuar como assistente operacional em ambientes condominiais.
 
@@ -36,7 +36,7 @@ A solução é focada no contexto de **condomínios (EV ChargeOps)**, onde há c
 
 ---
 
-## 👤 Persona Atendida
+##  Persona Atendida
 
 O chatbot foi projetado para atender:
 
@@ -46,7 +46,7 @@ O chatbot foi projetado para atender:
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * Modelos de linguagem (LLM)
 * OpenAI API (ou similar)
@@ -55,7 +55,7 @@ O chatbot foi projetado para atender:
 
 ---
 
-## 🧠 Justificativa Técnica
+##  Justificativa Técnica
 
 A utilização de modelos de linguagem permite interpretar perguntas em linguagem natural e gerar respostas contextualizadas.
 
@@ -63,14 +63,14 @@ A integração com dados do sistema (como consumo, regras e status dos carregado
 
 ---
 
-## 🔄 Fluxograma do Funcionamento
+##  Fluxograma do Funcionamento
 
 [Ver Fluxograma](docs/Fluxograma-IA.drawio.pdf)
 
 
 ---
 
-## 🧪 Modelo de Teste
+##  Modelo de Teste
 
 O sistema foi validado com perguntas simuladas para avaliar o comportamento esperado do chatbot.
 
@@ -88,7 +88,7 @@ Exemplos:
 
 ---
 
-## 🤖 System Prompt
+##  System Prompt
 
 O comportamento do chatbot é definido por um contexto base que orienta suas respostas dentro do cenário da GoodWe.
 
@@ -97,7 +97,7 @@ O comportamento do chatbot é definido por um contexto base que orienta suas res
 
 ---
 
-## 🚀 Considerações Finais
+##  Considerações Finais
 
 O projeto demonstra como a IA pode ser aplicada de forma prática na gestão de eletropostos, oferecendo suporte operacional, melhorando a experiência do usuário e contribuindo para eficiência energética em ambientes compartilhados.
 

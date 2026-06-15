@@ -48,8 +48,8 @@ O chatbot foi projetado para atender:
 
 ##  Tecnologias Utilizadas
 
-* Modelos de linguagem (LLM)
-* OpenAI API (ou similar)
+* Kaggle
+* Hugging Face
 * Integração com APIs de dados (simulação do sistema GoodWe)
 * Estrutura de chatbot baseada em IA contextual
 
